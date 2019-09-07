@@ -1,0 +1,7 @@
+Number: 1
+Stock Symbol: AHT
+Company Name: Ashtead Group plc
+Highest: 2017-01-26
+Lowest: 2016-11-17
+Average Close:
+Close: 1644.00
